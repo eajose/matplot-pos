@@ -10,3 +10,4 @@ services:
     volumes:
       - .:/src/
       - ./notebooks:/src/notebooks
+      - ./data:/src/data
